@@ -1,1 +1,1 @@
-web: gunicorn empolyee.wsgi --log-file -
+web: gunicorn std.wsgi --log-file -
